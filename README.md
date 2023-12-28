@@ -1,10 +1,5 @@
-Contents:
-1. About
-2. Folder Structure
-3. Setup
-4. Notes and Room for Improvement
 
-1. About: PingPongClone was created by me, Matthew Jones, using Visual Studio 2022 Community Edition.  I created it using C++.
+1. About: PingPongClone was created by me, Matthew Jones, using Visual Studio 2022 Community Edition.  I created it using C++.  There are no royalties, profits, etc. from this source. 
 
 2. Folder Struction:
  /PingPongClone
